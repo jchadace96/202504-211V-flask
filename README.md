@@ -13,3 +13,5 @@ cd 202504-211V-flask/
 uv sync
 uv run flask --app app/main.py run --debug
 ```
+
+3. Crear archivo user.py
